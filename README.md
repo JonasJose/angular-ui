@@ -1,2 +1,2 @@
-# angular-ui
-Projeto treinamento angular
+# api
+Projeto treinamento angular-java
